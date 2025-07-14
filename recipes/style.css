@@ -14,6 +14,27 @@ h1, p {
     text-align: center;
 }
 
+a {
+    color: white;
+}
+
+a:hover {
+    color:rgb(177, 72, 72);
+}
+
+.box {
+    border: solid white;
+    background-color: rgb(177, 72, 72);
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+.ing {
+    text-align: center;
+    margin-top: 10px;
+}
+
 .home {
     color: white;
     width: 100px;
